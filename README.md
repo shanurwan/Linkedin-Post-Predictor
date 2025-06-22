@@ -2,7 +2,7 @@
 
 ## Current Progress : Collecting Data
 
-## Project Draft
+## Project Draft (May or May not Change Accordingly)
 
 ## ✅ Milestone 1: 30 Posts Collected
 🎯 Goal: Early data exploration & prototype
