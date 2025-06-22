@@ -7,7 +7,7 @@
 ## ✅ Milestone 1: 30 Posts Collected
 🎯 Goal: Early data exploration & prototype
 
-- Clean and structure your dataset (CSV or DataFrame)
+- Clean and structure dataset (CSV or DataFrame)
 
 - Calculate basic metrics (engagement rate, word count, time features)
 
